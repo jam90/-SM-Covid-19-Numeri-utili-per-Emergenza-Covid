@@ -1,0 +1,153 @@
+{
+  "regular_numbers":[
+    {
+      "region": "Basilicata",
+      "number":  "800996688",
+      "subtitle": null
+    },
+    {
+      "region":"Calabria",
+      "number": "800767676",
+      "subtitle":null
+    },
+    {
+      "region":"Campania",
+      "number": "800909699",
+      "subtitle": null
+    },
+  {
+    "region":"Emilia-Romagna",
+    "number": "800033033",
+    "subtitle": null
+  },
+  {
+    "region":"Friuli Venezia Giulia",
+    "number": "800500300",
+    "subtitle": null
+  },
+  {
+    "region":"Lazio",
+    "number": "800118800",
+    "subtitle":null
+  },
+  {
+    "region":"Liguria",
+    "number": "800938883",
+    "subtitle": "Attivo dal lunedì al venerdì, dalle ore 9 alle 16 e il sabato dalle ore 9 alle 12"
+  },
+  {
+    "region":"Lombardia",
+    "number":"800894545",
+    "subtitle":null
+  },
+  {
+    "region":"Marche",
+    "number":"800936677",
+    "subtitle":null
+  },
+  {
+    "region":"Piemonte",
+    "number":"800192020",
+    "subtitle":"attivo 24 ore su 24"
+  },
+  { 
+    "region":"Piemonte",
+    "number":"800333444",
+    "subtitle":"Dal lunedì al venerdì, dalle ore 8 alle 20"
+  },
+  {
+    "region":"Provincia autonoma di Trento",
+    "number":"800867388",
+    "subtitle":null
+  },
+  {
+    "region":"Provincia autonoma di Bolzano",
+    "number":"800751751",
+    "subtitle":null
+  },
+  {
+    "region":"Puglia",
+    "number":"800713931",
+    "subtitle":null
+  },
+  {
+    "region":"Sardegna - info sanitarie",
+    "number":"800311377",
+    "subtitle":null
+  },
+  {
+    "region":"Sardegna - protezione civile",
+    "number":"800894530",
+    "subtitle":null
+  },
+  {
+    "region":"Sicilia",
+    "number":"800458787",
+    "subtitle":null
+  },
+  {
+    "region":"Toscana",
+    "number":"800556060",
+    "subtitle":null
+  },
+  {
+    "region":"Umbria",
+    "number":"800636363",
+    "subtitle":null
+  },
+  {
+    "region":"Valle d'Aosta",
+    "number":"800122121",
+    "subtitle":null
+  },
+  {
+    "region":"Umbria",
+    "numbria":"800462340",
+    "subtitle":null
+  }],
+  
+  "special_numbers": [
+    {
+      "region": "Abruzzo",
+      "main_number": null,
+      "numbers":  [
+        {
+          "title": "Asl n.1 Avezzano-Sulmona-L’Aquila",
+          "number": "800169326"
+        },
+        {
+          "title": "Asl n. 2 Chieti-Lanciano-Vasto",
+          "number": "800860146"
+        },
+        {
+          "title": "Asl n.3 Pescara",
+          "number": "800556600"
+        },
+        {
+          "title": "Asl n.4 Teramo",
+          "number": "800 090 147"
+        }
+    ]
+    },
+    {
+      "region": "Liguria",
+      "main_number": "112",
+      "numbers": null
+    },
+    {
+      "region": "Molise",
+      "main_number": "0874313000",
+      "numbers": null
+    },
+    {
+      "region": "Molise",
+      "main_number": "0874409000",
+      "numbers": null
+    },
+    {
+      "region":"Piacenza",
+      "main_number": "0523303600",
+      "numbers": null
+    }
+  ]
+}
